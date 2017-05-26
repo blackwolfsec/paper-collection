@@ -21,13 +21,15 @@
 
 2.[Anchore][9]-Discover and Analyze Containers,a free service for discovery, deep inspection, and analysis of container images.
 
+3.[Sumo Logic App for Docker][10]-Monitor your Docker infrastructure with a native collection source for events, stats, configurations and logs. Advanced machine-learning and analytics allow DevOps teams to analyze and troubleshoot issues surfacing from distributed container-based applications and Docker containers
+
 
 ## Paper(相关论文)
-1.[A Study of Security Vulnerabilities on Docker Hub][10]
+1.[A Study of Security Vulnerabilities on Docker Hub][11]
 
 
 ## Blog(相关博客或文章)
-1.[Docker Security – 6 Ways to Secure Your Docker Containers][11]
+1.[Docker Security – 6 Ways to Secure Your Docker Containers][12]
 
 
   [1]: https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/
@@ -39,5 +41,6 @@
   [7]: https://github.com/OpenSCAP/container-compliance
   [8]: https://docs.docker.com/docker-cloud/builds/image-scan/
   [9]: https://anchore.io
-  [10]: https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/
-  [11]: https://www.sumologic.com/blog/security/securing-docker-containers/
+  [10]: https://www.sumologic.com/application/docker/
+  [11]: https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/
+  [12]: https://www.sumologic.com/blog/security/securing-docker-containers/
