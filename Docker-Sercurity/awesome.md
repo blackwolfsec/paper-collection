@@ -48,7 +48,7 @@
 3.[Security Risks and Benefits of Docker Application Containers][20]
 
 
-  [1]: https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/
+  [1]: https://github.com/anchore/anchore
   [2]: https://github.com/coreos/clair
   [3]: https://github.com/projectatomic/atomic
   [4]: https://github.com/cr0hn/dockerscan
