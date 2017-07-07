@@ -41,23 +41,31 @@
 ## Paper(相关论文)
 1.[A Study of Security Vulnerabilities on Docker Hub][19]
 
+2.[Introduction to Container Security][20]
+
 
 ## Blog(相关博客或文章)
-1.[Docker Security – 6 Ways to Secure Your Docker Containers][20]
+1.[Docker Security – 6 Ways to Secure Your Docker Containers][21]
 
-2.[8 Docker security rules to live by][21]
+2.[8 Docker security rules to live by][22]
 
-3.[Security Risks and Benefits of Docker Application Containers][22]
+3.[Security Risks and Benefits of Docker Application Containers][23]
 
-4.[用 Sysdig 监控服务器和 Docker 容器][23]
+4.[用 Sysdig 监控服务器和 Docker 容器][24]
 
-5.[绝不避谈 Docker 安全][24] 
+5.[绝不避谈 Docker 安全][25] 
 
-6.[史上最全 Docker 安全问题回顾][25]
+6.[史上最全 Docker 安全问题回顾][26]
 
-7.[Docker官方发布的关于容器安全的白皮书][26] 
+7.[Docker官方发布的关于容器安全的白皮书][27] 
 
-8.[Docker Security][27]
+8.[Docker Security][28]
+
+9. [Are Docker containers really secure?][29]
+
+10. [Bringing new security features to Docker][30]
+
+11. [Tuning Docker with the newest security enhancements][31]
 
 
   [1]: https://github.com/anchore/anchore
@@ -79,11 +87,15 @@
   [17]: https://www.tenable.com/products/tenable-io/container-security?utm_source=google&utm_medium=cpc&utm_term=container%20security&utm_content=188477666387&utm_campaign=emea-en-vulnerabilitymanagement&utm_promoter=tenable
   [18]: https://www.aquasec.com/
   [19]: https://blog.acolyer.org/2017/04/03/a-study-of-security-vulnerabilities-on-docker-hub/
-  [20]: https://www.sumologic.com/blog/security/securing-docker-containers/
-  [21]: http://www.infoworld.com/article/3154711/security/8-docker-security-rules-to-live-by.html
-  [22]: https://zeltser.com/security-risks-and-benefits-of-docker-application/
-  [23]: https://www.ibm.com/developerworks/cn/linux/1607_caoyq_sysdig/index.html
-  [24]: https://mp.weixin.qq.com/s/IN_JJhg_oG7ILVjNj-UexA
-  [25]: http://blog.daocloud.io/a-look-back-at-one-year-of-docker-security/?utm_source=tuicool&utm_medium=referral
-  [26]: http://dockone.io/article/808
-  [27]: https://www.docker.com/docker-security
+  [20]: https://github.com/docker/notary/blob/master/docs/resources/ncc_docker_notary_audit_2015_07_31.pdf
+  [21]: https://www.sumologic.com/blog/security/securing-docker-containers/
+  [22]: http://www.infoworld.com/article/3154711/security/8-docker-security-rules-to-live-by.html
+  [23]: https://zeltser.com/security-risks-and-benefits-of-docker-application/
+  [24]: https://www.ibm.com/developerworks/cn/linux/1607_caoyq_sysdig/index.html
+  [25]: https://mp.weixin.qq.com/s/IN_JJhg_oG7ILVjNj-UexA
+  [26]: http://blog.daocloud.io/a-look-back-at-one-year-of-docker-security/?utm_source=tuicool&utm_medium=referral
+  [27]: http://dockone.io/article/808
+  [28]: https://www.docker.com/docker-security
+  [29]: https://opensource.com/business/14/7/docker-security-selinux
+  [30]: https://opensource.com/business/14/9/security-for-docker
+  [31]: https://opensource.com/business/15/3/docker-security-tuning
